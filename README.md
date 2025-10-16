@@ -8,6 +8,15 @@ To use this, just type in MATLAB
 
     run_MCA
 
+### Python Version
+
+You can also run an equivalent analysis with Python using `run_mca.py`:
+
+```bash
+python -m python.run_mca
+```
+
+
 Then you will get these results:
 
 ![](images/conv_SLD_MCA_aed_300_tool_1.png)
